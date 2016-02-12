@@ -1,0 +1,32 @@
+                           CODEBOOK FOR DATASET CREATED AS PART OF                   
+                            COURSERA GETTING AND CLEANING DATA                
+              
+
+                                 
+DATASET NAME: UCI_HAR_Dataset_tidy and UCI_HAR_Dataset_grouped                                 
+                                                                                
+                                                                                
+     VARIABLE NAME            VARIABLE                   VALUES OR                 
+     AND POSITION                                       EXPLANATION               
+                                                                                
+     ACTIVITY      1       UNIQUE IDENTICATION OF               
+                           AN ACTIVITY                                
+                                                                     
+                                                                                
+     SUBJECT       2       IDENTIFICATION OF A PERSON
+			   WHO DID THE EXPERIMENT        1:30                                
+                                                                                
+     ACTIVITY_
+DESCRIPTION        3       LABEL FOR ACTIVITY                                 
+                                                                                
+     SIGNAL_DOMAIN 4       TYPE OF SIGNAL               Frequency
+							Time                 
+                                                                                
+     NAME          5       NAME OF THE MEASURE                     
+                                                                                
+     NORMALIZED_
+MEASURE            6      THE VALUE OF THE MEASURE       -1:1          
+			   ALREADY NORMALIZED 
+
+    OPERATION      7        THE OPERATION THAT		Mean	
+                           CREATED THE MEASURE          Std
